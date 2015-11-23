@@ -1,0 +1,7 @@
+---
+folder:
+    local: /var/www/strongloop
+    server: /var/www/strongloop
+ip: 
+    local: 192.168.33.20
+domain: alphaloop.meomeo
